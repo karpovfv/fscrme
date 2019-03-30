@@ -1,3 +1,5 @@
 node_modules
 config/keys.dev.js
 client/etc
+.idea
+.vscode
